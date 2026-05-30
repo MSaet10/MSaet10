@@ -1,9 +1,10 @@
-# Hi, I'm Muey Saeteurn👋
+# Hi, I'm Muey Saeteurn 👋
 
 Azure-focused cloud professional with 4+ years in enterprise 
-Microsoft environments. I work across Azure, Microsoft 365, and 
-SaaS platforms — and outside of work I build real Azure 
-infrastructure to sharpen my cloud engineering skills.
+Microsoft environments. Currently working as a Technical Support 
+Engineer at LTIMindtree, supporting Azure and Microsoft 365 
+enterprise environments. Outside of work I build and deploy real 
+Azure infrastructure projects to demonstrate cloud engineering skills.
 
 ## 🔧 What I Work With
 

@@ -35,4 +35,6 @@ compute, identity, monitoring, serverless, and backup workflows.
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/mueysaet)
+- 🔗 [LinkedIn](https://linkedin.com/in/mueysaet)
+- 📍 Puyallup, WA
+- 📚 Currently: Renewing AZ-104 | Next: ITIL 4 Foundation

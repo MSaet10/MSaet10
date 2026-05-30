@@ -1,4 +1,4 @@
-# Hi, I'm Muey 👋
+# Hi, I'm Muey Saeteurn👋
 
 Azure-focused cloud professional with 4+ years in enterprise 
 Microsoft environments. I work across Azure, Microsoft 365, and 

@@ -1,40 +1,44 @@
-# Hi, I'm Muey Saeteurn 👋
+Azure-focused cloud professional with 4+ years supporting Microsoft cloud
+environments for government customers. Currently a Technical Support Engineer
+at LTM, supporting Azure Government, GCC High, and Microsoft 365/Dynamics 365
+in a federal SLA-driven environment. Outside of work, I build and deploy real
+Azure infrastructure to grow my cloud engineering skills.
 
-Azure-focused cloud professional with 4+ years in enterprise 
-Microsoft environments. Currently working as a Technical Support 
-Engineer at LTIMindtree, supporting Azure and Microsoft 365 
-enterprise environments. Outside of work I build and deploy real 
-Azure infrastructure projects to demonstrate cloud engineering skills.
+🎯 Open to hands-on cloud and systems engineering roles in Washington or remote on the West Coast.
 
 ## 🔧 What I Work With
 
-**Cloud:** Azure · AWS · GCP  
-**Azure:** Entra ID · VMs · VNets · NSGs · Azure Monitor · 
-Log Analytics · Azure Functions · Backup · RBAC  
-**IaC:** Terraform · Bicep  
-**Scripting:** PowerShell · Python · Azure CLI  
-**DevOps:** GitHub · Docker  
+**Cloud:** Azure · Azure Government · GCC High · GCP  
+**Azure:** Entra ID · RBAC · VMs · VNets · NSGs · Load Balancer · App Service · Azure Functions · Key Vault · Azure Monitor · Log Analytics · Application Insights · Azure Backup  
+**IaC & CI/CD:** Terraform · Bicep · GitHub Actions  
+**Scripting:** PowerShell · Azure CLI · Bash · Python  
+**Tools:** Git/GitHub · Docker  
 
 ## 📁 Featured Projects
 
 ### [Azure Infrastructure Deployment](https://github.com/MSaet10/azure-project-1-infrastructure)
-End-to-end Azure environment — VMs, load balancing, networking, 
-Entra ID/RBAC, monitoring, serverless, backup, and disaster 
-recovery. Includes 6 real-world incident simulations with 
-documented troubleshooting and resolution.
+End-to-end Azure environment with segmented networking, load-balanced Windows
+Server VMs, Entra ID RBAC/MFA, monitoring, serverless, and backup/disaster
+recovery. Includes 6 incident simulations with documented troubleshooting
+and resolution.
 
 ### [Azure IaC Deployment (Terraform + Bicep)](https://github.com/MSaet10/azure-project-2-iac)
-Rebuilt the same infrastructure using Infrastructure as Code — 
-modular Terraform and Bicep templates automating networking, 
-compute, identity, monitoring, serverless, and backup workflows.
+Rebuilt the infrastructure as code with Terraform and Bicep, automating
+networking, compute, identity, monitoring, serverless, and backup. Validated
+reproducible deployments and resolved real deployment errors along the way.
+
+### 🚧 In Progress: Azure CI/CD Pipeline
+GitHub Actions pipeline that tests and deploys a Python Flask app to Azure
+App Service using deployment slots. Now adding Terraform provisioning and
+Azure Key Vault for secrets.
 
 ## 🏅 Certifications
 
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Google Cloud Certified: Associate Cloud Engineer
+- Microsoft Certified: Azure Administrator Associate (AZ-104), renewed May 2026
+- Google Cloud Certified: Associate Cloud Engineer, Sep 2025
 
 ## 📫 Connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/mueysaet)
-- 📍 Puyallup, WA
-- 📚 Currently: Renewing AZ-104 | Next: ITIL 4 Foundation
+- 📍 Puyallup, WA (working in Bellevue)
+- 📚 Currently building: Azure CI/CD pipeline 

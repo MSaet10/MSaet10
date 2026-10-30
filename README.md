@@ -1,14 +1,14 @@
 Azure-focused cloud professional with 4+ years supporting Microsoft cloud
 environments for government customers. Currently a Technical Support Engineer
-at LTM, supporting Azure Government, GCC High, and Microsoft 365/Dynamics 365
-in a federal SLA-driven environment. Outside of work, I build and deploy real
+at LTM, supporting government customers using Microsoft 365 applications and Dynamics 365 CRM
+in an SLA-driven environment. Outside of work, I build and deploy real
 Azure infrastructure to grow my cloud engineering skills.
 
 🎯 Open to hands-on cloud and systems engineering roles in Washington or remote on the West Coast.
 
 ## 🔧 What I Work With
 
-**Cloud:** Azure · Azure Government · GCC High · GCP  
+**Cloud:** Azure · GCP  
 **Azure:** Entra ID · RBAC · VMs · VNets · NSGs · Load Balancer · App Service · Azure Functions · Key Vault · Azure Monitor · Log Analytics · Application Insights · Azure Backup  
 **IaC & CI/CD:** Terraform · Bicep · GitHub Actions  
 **Scripting:** PowerShell · Azure CLI · Bash · Python  

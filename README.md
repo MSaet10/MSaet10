@@ -26,11 +26,6 @@ Rebuilt the infrastructure as code with Terraform and Bicep, automating
 networking, compute, identity, monitoring, serverless, and backup. Validated
 reproducible deployments and resolved real deployment errors along the way.
 
-### 🚧 In Progress: Azure CI/CD Pipeline
-GitHub Actions pipeline that tests and deploys a Python Flask app to Azure
-App Service using deployment slots. Now adding Terraform provisioning and
-Azure Key Vault for secrets.
-
 ## 🏅 Certifications
 
 - Microsoft Certified: Azure Administrator Associate (AZ-104), renewed May 2026
@@ -39,5 +34,4 @@ Azure Key Vault for secrets.
 ## 📫 Connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/mueysaet)
-- 📍 Employed in Bellevue, WA
-- 📚 Currently building: Azure CI/CD pipeline 
+

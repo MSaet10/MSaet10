@@ -1,5 +1,5 @@
 Azure-focused cloud professional with 4+ years supporting Microsoft cloud
-environments for government customers. Currently a Technical Support Engineer
+environments for government customers. Currently working in Cloud & Infrastructure Management
 at LTM, supporting government customers using Microsoft 365 applications and Dynamics 365 CRM
 in an SLA-driven environment. Outside of work, I build and deploy real
 Azure infrastructure to grow my cloud engineering skills.
@@ -40,5 +40,5 @@ Azure Key Vault for secrets.
 ## 📫 Connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/mueysaet)
-- 📍 Puyallup, WA (working in Bellevue)
+- 📍 Employed in Bellevue, WA
 - 📚 Currently building: Azure CI/CD pipeline 

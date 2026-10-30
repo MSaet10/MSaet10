@@ -1,4 +1,4 @@
-Azure-focused cloud professional with 4+ years supporting Microsoft cloud
+Cloud professional with 4+ years supporting Microsoft cloud
 environments for government customers. Currently working in Cloud & Infrastructure Management
 at LTM, supporting government customers using Microsoft 365 applications and Dynamics 365 CRM
 in an SLA-driven environment. Outside of work, I build and deploy real

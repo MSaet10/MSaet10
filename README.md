@@ -4,7 +4,6 @@ at LTM, supporting government customers using Microsoft 365 applications and Dyn
 in an SLA-driven environment. Outside of work, I build and deploy real
 Azure infrastructure to grow my cloud engineering skills.
 
-🎯 Open to hands-on cloud and systems engineering roles in Washington or remote on the West Coast.
 
 ## 🔧 What I Work With
 
